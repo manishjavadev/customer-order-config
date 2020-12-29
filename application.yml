@@ -1,4 +1,3 @@
-##Register with Eureka Server
 eureka:
   client:
     register-with-eureka: true
